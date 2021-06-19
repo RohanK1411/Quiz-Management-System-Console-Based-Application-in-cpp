@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1599583889 source:c:\users\aadil\documents\cppdatabse\main.cpp
+	<iostream>
+	<windows.h>
+	<mysql.h>
+	<sstream>
+
+1476096933 c:\program files (x86)\dev-cpp\mingw64\include\mysql.h
+	<sys/types.h>
+	<winsock.h>
+	"mysql_com.h"
+	"mysql_time.h"
+	"mysql_version.h"
+	"typelib.h"
+	"my_list.h"
+	"my_alloc.h"
+
+1476096946 c:\program files (x86)\dev-cpp\mingw64\include\mysql_com.h
+
+1476096972 c:\program files (x86)\dev-cpp\mingw64\include\mysql_time.h
+
+1476096983 c:\program files (x86)\dev-cpp\mingw64\include\mysql_version.h
+	<custom_conf.h>
+
+1476097123 c:\program files (x86)\dev-cpp\mingw64\include\typelib.h
+
+1476097168 c:\program files (x86)\dev-cpp\mingw64\include\my_list.h
+
+1476097177 c:\program files (x86)\dev-cpp\mingw64\include\my_alloc.h
+
+1618774527 source:c:\users\rohan katta\downloads\cppdatabse\main.cpp
+	<iostream>
+	<windows.h>
+	<mysql.h>
+	<sstream>
+	<string>
+	<fstream>
+
+1476096933 d:\softwares\codeblock\codeblocks\mingw\include\mysql.h
+	<sys/types.h>
+	<winsock.h>
+	"mysql_com.h"
+	"mysql_time.h"
+	"mysql_version.h"
+	"typelib.h"
+	"my_list.h"
+	"my_alloc.h"
+
+1476096946 d:\softwares\codeblock\codeblocks\mingw\include\mysql_com.h
+
+1476096972 d:\softwares\codeblock\codeblocks\mingw\include\mysql_time.h
+
+1476096983 d:\softwares\codeblock\codeblocks\mingw\include\mysql_version.h
+	<custom_conf.h>
+
+1476097123 d:\softwares\codeblock\codeblocks\mingw\include\typelib.h
+
+1476097168 d:\softwares\codeblock\codeblocks\mingw\include\my_list.h
+
+1476097177 d:\softwares\codeblock\codeblocks\mingw\include\my_alloc.h
+
